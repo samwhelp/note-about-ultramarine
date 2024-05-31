@@ -10,13 +10,23 @@ has_children: false
 
 
 
+## News
+
+* [Ultramarine Linux 40 Rains Down](https://blog.fyralabs.com/ultramarine-40-release/)
+
+
+
+
 ## Ultramarine Linux
 
 * [Ultramarine Linux](https://ultramarine-linux.org/)
 * [Ultramarine Package Sources](https://github.com/Ultramarine-Linux/packages)
 * [Wiki](https://wiki.ultramarine-linux.org/en/welcome/)
 * [Download](https://ultramarine-linux.org/download/)
+* [GitLab](https://gitlab.com/ultramarine-linux)
 * [GitHub](https://github.com/Ultramarine-Linux)
+* GitHub / Ultramarine-Linux /  [images](https://github.com/Ultramarine-Linux/images)
+* GitHub / FyraLabs / [katsu](https://github.com/FyraLabs/katsu)
 * [migrate.sh](https://github.com/Ultramarine-Linux/website/blob/main/static/migrate.sh)
 
 ``` sh
@@ -26,9 +36,17 @@ bash <(curl -s https://ultramarine-linux.org/migrate.sh)
 
 
 
-## News
+## FyraLabs
 
-* [Ultramarine Linux 40 Rains Down](https://blog.fyralabs.com/ultramarine-40-release/)
+* [Fyra Labs](https://fyralabs.com/)
+* [GitHub](https://github.com/FyraLabs)
+
+
+
+## Katsu
+
+* [Katsu](https://developer.fyralabs.com/katsu)
+* GitHub / FyraLabs / [katsu](https://github.com/FyraLabs/katsu)
 
 
 
