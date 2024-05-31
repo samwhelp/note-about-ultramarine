@@ -36,7 +36,7 @@ bash <(curl -s https://ultramarine-linux.org/migrate.sh)
 
 
 
-## FyraLabs
+## Fyra Labs
 
 * [Fyra Labs](https://fyralabs.com/)
 * [GitHub](https://github.com/FyraLabs)
