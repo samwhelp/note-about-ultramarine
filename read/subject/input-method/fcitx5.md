@@ -22,9 +22,9 @@ parent: 輸入法
 
 | 模組 | 中文輸入法 |
 | --- | --- |
-| [fcitx5-chewing](https://samwhelp.github.io/note-about-ultramarine-xfce/read/subject/input-method/fcitx5/module/fcitx5-chewing.html) | 新酷音輸入法 |
-| [fcitx5-table-boshiamy](https://samwhelp.github.io/note-about-ultramarine-xfce/read/subject/input-method/fcitx5/table/fcitx5-table-boshiamy.html) | 嘸蝦米輸入法 |
-| [fcitx5-table-easy-large](https://samwhelp.github.io/note-about-ultramarine-xfce/read/subject/input-method/fcitx5/table/fcitx5-table-easy-large.html) | 輕鬆輸入法 |
+| [fcitx5-chewing](https://samwhelp.github.io/note-about-ultramarine/read/subject/input-method/fcitx5/module/fcitx5-chewing.html) | 新酷音輸入法 |
+| [fcitx5-table-boshiamy](https://samwhelp.github.io/note-about-ultramarine/read/subject/input-method/fcitx5/table/fcitx5-table-boshiamy.html) | 嘸蝦米輸入法 |
+| [fcitx5-table-easy-large](https://samwhelp.github.io/note-about-ultramarine/read/subject/input-method/fcitx5/table/fcitx5-table-easy-large.html) | 輕鬆輸入法 |
 
 
 

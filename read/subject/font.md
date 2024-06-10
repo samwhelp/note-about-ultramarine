@@ -27,9 +27,9 @@ has_children: true
 
 ## 字型設定
 
-| [字型設定](https://samwhelp.github.io/note-about-ultramarine-xfce/read/subject/font/config.html) |
+| [字型設定](https://samwhelp.github.io/note-about-ultramarine/read/subject/font/config.html) |
 | --- |
-| [設定字型查找順序](https://samwhelp.github.io/note-about-ultramarine-xfce/read/subject/font/config/font-match-order.html) |
+| [設定字型查找順序](https://samwhelp.github.io/note-about-ultramarine/read/subject/font/config/font-match-order.html) |
 
 
 
@@ -38,5 +38,5 @@ has_children: true
 
 | 相關議題 |
 | --- |
-| [語系](https://samwhelp.github.io/note-about-ultramarine-xfce/read/subject/locale.html) |
-| [輸入法](https://samwhelp.github.io/note-about-ultramarine-xfce/read/subject/input-method.html) |
+| [語系](https://samwhelp.github.io/note-about-ultramarine/read/subject/locale.html) |
+| [輸入法](https://samwhelp.github.io/note-about-ultramarine/read/subject/input-method.html) |

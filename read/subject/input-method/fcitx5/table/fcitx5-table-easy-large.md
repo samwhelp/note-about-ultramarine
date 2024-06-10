@@ -29,7 +29,7 @@ grand_parent: 輸入法
 
 | 微調腳本 | 中文輸入法 |
 | -------- | ---------- |
-| [fcitx5-table-easy-large 安裝設定腳本](https://github.com/samwhelp/ultramarine-xfce-adjustment/tree/main/prototype/main/im-config/fcitx5/fcitx5-table-easy-large) | 輕鬆輸入法 |
+| [fcitx5-table-easy-large 安裝設定腳本](https://github.com/samwhelp/ultramarine-adjustment/tree/main/prototype/main/im-config/fcitx5/fcitx5-table-easy-large) | 輕鬆輸入法 |
 
 
 
@@ -66,7 +66,7 @@ sudo dnf install fcitx5-gtk2 fcitx5-gtk3 fcitx5-gtk4 fcitx5-qt fcitx5-qt6
 sudo dnf install fcitx5-configtool
 ```
 
-> 可以參考我的「[package-list.txt](https://github.com/samwhelp/ultramarine-xfce-adjustment/blob/main/prototype/main/im-config/fcitx5/fcitx5-chewing/package-list.txt)」。
+> 可以參考我的「[package-list.txt](https://github.com/samwhelp/ultramarine-adjustment/blob/main/prototype/main/im-config/fcitx5/fcitx5-chewing/package-list.txt)」。
 
 | Package |
 | ------- |

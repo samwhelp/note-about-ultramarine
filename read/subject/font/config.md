@@ -13,4 +13,4 @@ parent: 字型
 
 | 主題 |
 | --- |
-| [設定字型查找順序](https://samwhelp.github.io/note-about-ultramarine-xfce/read/subject/font/config/font-match-order.html) |
+| [設定字型查找順序](https://samwhelp.github.io/note-about-ultramarine/read/subject/font/config/font-match-order.html) |

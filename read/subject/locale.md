@@ -23,8 +23,8 @@ has_children: true
 
 | 相關議題 |
 | --- |
-| [字型](https://samwhelp.github.io/note-about-ultramarine-xfce/read/subject/font.html) |
-| [輸入法](https://samwhelp.github.io/note-about-ultramarine-xfce/read/subject/input-method.html) |
+| [字型](https://samwhelp.github.io/note-about-ultramarine/read/subject/font.html) |
+| [輸入法](https://samwhelp.github.io/note-about-ultramarine/read/subject/input-method.html) |
 
 
 
