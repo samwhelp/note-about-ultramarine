@@ -29,6 +29,11 @@
 | [Ultramarine Gnome Shell 探索筆記](https://samwhelp.github.io/note-about-ultramarine-gnome-shell/) | [GitHub](https://github.com/samwhelp/note-about-ultramarine-gnome-shell) |
 
 
+| Link | GitHub |
+| ---- | ------ |
+| [Ultramarine Wayfire 探索筆記](https://samwhelp.github.io/note-about-ultramarine-wayfire/) | [GitHub](https://github.com/samwhelp/note-about-ultramarine-wayfire) |
+
+
 
 
 ## 微調腳本
