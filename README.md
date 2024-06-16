@@ -32,6 +32,7 @@
 | Link | GitHub |
 | ---- | ------ |
 | [Ultramarine Wayfire 探索筆記](https://samwhelp.github.io/note-about-ultramarine-wayfire/) | [GitHub](https://github.com/samwhelp/note-about-ultramarine-wayfire) |
+| [Ultramarine Labwc 探索筆記](https://samwhelp.github.io/note-about-ultramarine-labwc/) | [GitHub](https://github.com/samwhelp/note-about-ultramarine-labwc) |
 
 
 
