@@ -33,6 +33,8 @@
 | ---- | ------ |
 | [Ultramarine Wayfire 探索筆記](https://samwhelp.github.io/note-about-ultramarine-wayfire/) | [GitHub](https://github.com/samwhelp/note-about-ultramarine-wayfire) |
 | [Ultramarine Labwc 探索筆記](https://samwhelp.github.io/note-about-ultramarine-labwc/) | [GitHub](https://github.com/samwhelp/note-about-ultramarine-labwc) |
+| [Ultramarine Hyprland 探索筆記](https://samwhelp.github.io/note-about-ultramarine-hyprland/) | [GitHub](https://github.com/samwhelp/note-about-ultramarine-hyprland) |
+| [Ultramarine Sway 探索筆記](https://samwhelp.github.io/note-about-ultramarine-sway/) | [GitHub](https://github.com/samwhelp/note-about-ultramarine-sway) |
 
 
 
