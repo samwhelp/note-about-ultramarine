@@ -23,9 +23,10 @@
 
 | Link | GitHub |
 | ---- | ------ |
-| [Ultramarine Budgie 探索筆記](https://samwhelp.github.io/note-about-ultramarine-budgie/) | [GitHub](https://github.com/samwhelp/note-about-ultramarine-budgie) |
 | [Ultramarine Xfce 探索筆記](https://samwhelp.github.io/note-about-ultramarine-xfce/) | [GitHub](https://github.com/samwhelp/note-about-ultramarine-xfce) |
+| [Ultramarine Lxqt 探索筆記](https://samwhelp.github.io/note-about-ultramarine-lxqt/) | [GitHub](https://github.com/samwhelp/note-about-ultramarine-lxqt) |
 | [Ultramarine Kde Plasma 探索筆記](https://samwhelp.github.io/note-about-ultramarine-kde-plasma/) | [GitHub](https://github.com/samwhelp/note-about-ultramarine-kde-plasma) |
+| [Ultramarine Budgie 探索筆記](https://samwhelp.github.io/note-about-ultramarine-budgie/) | [GitHub](https://github.com/samwhelp/note-about-ultramarine-budgie) |
 | [Ultramarine Gnome Shell 探索筆記](https://samwhelp.github.io/note-about-ultramarine-gnome-shell/) | [GitHub](https://github.com/samwhelp/note-about-ultramarine-gnome-shell) |
 
 
