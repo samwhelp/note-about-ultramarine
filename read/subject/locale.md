@@ -1,7 +1,7 @@
 ---
 title: 語系
 nav_order: 3010
-has_children: true
+has_children: false
 ---
 
 

@@ -2,7 +2,7 @@
 title: 設定字型查找順序
 nav_order: 3101
 has_children: false
-parent: 設定
+parent: 字型設定
 grand_parent: 字型
 ---
 
