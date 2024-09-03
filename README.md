@@ -57,16 +57,16 @@
 
 | Download ISO |
 | --- |
-| [Download ISO](https://samwhelp.github.io/note-about-ultramarine/read/core/iso/download-iso.html) |
+| [Download Ultramarine ISO](https://samwhelp.github.io/note-about-ultramarine/read/core/iso/download-iso.html) |
 
 
 ### Boot ISO
 
 | Boot ISO |
 | --- |
-| [Boot ISO By USB](https://samwhelp.github.io/note-about-ultramarine/read/core/iso/boot-iso/boot-iso-by-usb.html) |
-| [Boot ISO By Ventoy](https://samwhelp.github.io/note-about-ultramarine/read/core/iso/boot-iso/boot-iso-by-ventoy.html) |
-| [Boot ISO By GRUB](https://samwhelp.github.io/note-about-ultramarine/read/core/iso/boot-iso/boot-iso-by-grub.html) |
+| [Boot Ultramarine ISO By USB](https://samwhelp.github.io/note-about-ultramarine/read/core/iso/boot-iso/boot-iso-by-usb.html) |
+| [Boot Ultramarine ISO By Ventoy](https://samwhelp.github.io/note-about-ultramarine/read/core/iso/boot-iso/boot-iso-by-ventoy.html) |
+| [Boot Ultramarine ISO By GRUB](https://samwhelp.github.io/note-about-ultramarine/read/core/iso/boot-iso/boot-iso-by-grub.html) |
 
 
 
