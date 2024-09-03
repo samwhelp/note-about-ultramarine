@@ -26,6 +26,7 @@ has_children: true
 | [pcmanfm-qt](https://github.com/samwhelp/ultramarine-adjustment/tree/main/prototype/main/tool-config/part/pcmanfm-qt) |
 | [mousepad](https://github.com/samwhelp/ultramarine-adjustment/tree/main/prototype/main/tool-config/part/mousepad) |
 | [geany](https://github.com/samwhelp/ultramarine-adjustment/tree/main/prototype/main/tool-config/part/geany) |
+| [featherpad](https://github.com/samwhelp/ultramarine-adjustment/tree/main/prototype/main/tool-config/part/featherpad) |
 | [sakura](https://github.com/samwhelp/ultramarine-adjustment/tree/main/prototype/main/tool-config/part/sakura) |
 | [xfce4-terminal](https://github.com/samwhelp/ultramarine-adjustment/tree/main/prototype/main/tool-config/part/xfce4-terminal) |
 | [qterminal](https://github.com/samwhelp/ultramarine-adjustment/tree/main/prototype/main/tool-config/part/qterminal) |
@@ -49,6 +50,7 @@ has_children: true
 | --- | --- |
 | [mousepad](https://samwhelp.github.io/note-about-ultramarine/read/subject/tool/text-editor/mousepad.html) | [微調腳本](https://github.com/samwhelp/ultramarine-adjustment/tree/main/prototype/main/tool-config/part/mousepad) |
 | [geany](https://samwhelp.github.io/note-about-ultramarine/read/subject/tool/text-editor/geany.html) | [微調腳本](https://github.com/samwhelp/ultramarine-adjustment/tree/main/prototype/main/tool-config/part/geany) |
+| [featherpad](https://samwhelp.github.io/note-about-ultramarine/read/subject/tool/text-editor/featherpad.html) | [微調腳本](https://github.com/samwhelp/ultramarine-adjustment/tree/main/prototype/main/tool-config/part/featherpad) |
 
 
 

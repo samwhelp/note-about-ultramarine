@@ -12,3 +12,4 @@ parent: 工具
 | --- | --- |
 | [mousepad](https://samwhelp.github.io/note-about-ultramarine/read/subject/tool/text-editor/mousepad.html) | [微調腳本](https://github.com/samwhelp/ultramarine-adjustment/tree/main/prototype/main/tool-config/part/mousepad) |
 | [geany](https://samwhelp.github.io/note-about-ultramarine/read/subject/tool/text-editor/geany.html) | [微調腳本](https://github.com/samwhelp/ultramarine-adjustment/tree/main/prototype/main/tool-config/part/geany) |
+| [featherpad](https://samwhelp.github.io/note-about-ultramarine/read/subject/tool/text-editor/featherpad.html) | [微調腳本](https://github.com/samwhelp/ultramarine-adjustment/tree/main/prototype/main/tool-config/part/featherpad) |
