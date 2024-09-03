@@ -1,6 +1,6 @@
 ---
 title: Xfce4-Terminal
-nav_order: 3048
+nav_order: 3042
 has_children: false
 parent: Terminal
 grand_parent: 工具

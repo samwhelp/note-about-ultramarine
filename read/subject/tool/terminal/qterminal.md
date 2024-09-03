@@ -1,6 +1,6 @@
 ---
 title: QTerminal
-nav_order: 3048
+nav_order: 3043
 has_children: false
 parent: Terminal
 grand_parent: 工具

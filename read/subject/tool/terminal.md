@@ -10,6 +10,7 @@ parent: 工具
 
 | Terminal | 微調腳本 |
 | --- | --- |
+| [sakura](https://samwhelp.github.io/note-about-ultramarine/read/subject/tool/terminal/sakura.html) | [微調腳本](https://github.com/samwhelp/ultramarine-adjustment/tree/main/prototype/main/tool-config/part/sakura) |
 | [xfce4-terminal](https://samwhelp.github.io/note-about-ultramarine/read/subject/tool/terminal/xfce4-terminal.html) | [微調腳本](https://github.com/samwhelp/ultramarine-adjustment/tree/main/prototype/main/tool-config/part/xfce4-terminal) |
 | [qterminal](https://samwhelp.github.io/note-about-ultramarine/read/subject/tool/terminal/qterminal.html) | [微調腳本](https://github.com/samwhelp/ultramarine-adjustment/tree/main/prototype/main/tool-config/part/qterminal) |
 
