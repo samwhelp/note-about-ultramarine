@@ -26,6 +26,7 @@ has_children: true
 | [pcmanfm-qt](https://github.com/samwhelp/ultramarine-adjustment/tree/main/prototype/main/tool-config/part/pcmanfm-qt) |
 | [mousepad](https://github.com/samwhelp/ultramarine-adjustment/tree/main/prototype/main/tool-config/part/mousepad) |
 | [xfce4-terminal](https://github.com/samwhelp/ultramarine-adjustment/tree/main/prototype/main/tool-config/part/xfce4-terminal) |
+| [qterminal](https://github.com/samwhelp/ultramarine-adjustment/tree/main/prototype/main/tool-config/part/qterminal) |
 
 
 
@@ -54,3 +55,4 @@ has_children: true
 | [Terminal](https://samwhelp.github.io/note-about-ultramarine/read/subject/tool/terminal.html) | 微調腳本 |
 | --- | --- |
 | [xfce4-terminal](https://samwhelp.github.io/note-about-ultramarine/read/subject/tool/terminal/xfce4-terminal.html) | [微調腳本](https://github.com/samwhelp/ultramarine-adjustment/tree/main/prototype/main/tool-config/part/xfce4-terminal) |
+| [qterminal](https://samwhelp.github.io/note-about-ultramarine/read/subject/tool/terminal/qterminal.html) | [微調腳本](https://github.com/samwhelp/ultramarine-adjustment/tree/main/prototype/main/tool-config/part/qterminal) |
