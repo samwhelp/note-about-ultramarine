@@ -14,3 +14,10 @@ has_children: true
 | --- |
 | [Download ISO](https://samwhelp.github.io/note-about-ultramarine/read/core/iso/download-iso.html)
 | [Boot ISO](https://samwhelp.github.io/note-about-ultramarine/read/core/iso/boot-iso.html) |
+
+
+
+
+## Link
+
+* Ultramarine Linux / Wiki / [Getting Ultramarine Linux](https://wiki.ultramarine-linux.org/en/installation/getting/)

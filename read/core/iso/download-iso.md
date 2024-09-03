@@ -8,9 +8,17 @@ parent: ISO
 
 # Download ISO
 
+* [Link](#link)
 * [下載腳本](#下載腳本)
 * [下載點](#下載點)
 * [下載方式](#下載方式)
+
+
+
+
+## Link
+
+* Ultramarine Linux / Wiki / [Getting Ultramarine Linux](https://wiki.ultramarine-linux.org/en/installation/getting/)
 
 
 
