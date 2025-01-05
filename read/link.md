@@ -87,7 +87,7 @@ dnf --releasever=36 --installroot=/mnt -y groupinstall core;
 ```
 
 
-## mksquashfs
+### mksquashfs
 
 > katsu / src / [builder.rs](https://github.com/FyraLabs/katsu/blob/main/src/builder.rs#L704)
 
@@ -116,6 +116,11 @@ dnf --releasever=36 --installroot=/mnt -y groupinstall core;
 			.status()?;
 
 ```
+
+
+### qemu
+
+> [qemu.sh](https://github.com/Ultramarine-Linux/images/blob/um41/qemu.sh)
 
 
 
