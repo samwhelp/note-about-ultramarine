@@ -92,28 +92,28 @@ debug!("xorriso -as mkisofs --efi-boot {uefi_bin} -b {bios_bin} -no-emul-boot -b
 > katsu / src / [builder.rs](https://github.com/FyraLabs/katsu/blob/main/src/builder.rs#L704)
 
 ``` rust
-		info!("Squashing file system (mksquashfs)");
-		std::process::Command::new("mksquashfs")
-			.arg(chroot)
-			.arg(image)
-			.args(&sqfs_comp_args)
-			.arg("-b")
-			.arg("1048576")
-			.arg("-noappend")
-			.arg("-e")
-			.arg("/dev/")
-			.arg("-e")
-			.arg("/proc/")
-			.arg("-e")
-			.arg("/sys/")
-			.arg("-p")
-			.arg("/dev 755 0 0")
-			.arg("-p")
-			.arg("/proc 755 0 0")
-			.arg("-p")
-			.arg("/sys 755 0 0")
-			.args(&sqfs_extra_args)
-			.status()?;
+info!("Squashing file system (mksquashfs)");
+std::process::Command::new("mksquashfs")
+	.arg(chroot)
+	.arg(image)
+	.args(&sqfs_comp_args)
+	.arg("-b")
+	.arg("1048576")
+	.arg("-noappend")
+	.arg("-e")
+	.arg("/dev/")
+	.arg("-e")
+	.arg("/proc/")
+	.arg("-e")
+	.arg("/sys/")
+	.arg("-p")
+	.arg("/dev 755 0 0")
+	.arg("-p")
+	.arg("/proc 755 0 0")
+	.arg("-p")
+	.arg("/sys 755 0 0")
+	.args(&sqfs_extra_args)
+	.status()?;
 
 ```
 
