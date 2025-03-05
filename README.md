@@ -12,7 +12,7 @@
 
 ## 主題
 
-* [Ultramarine Adjustment](#ultramarine-adjustment)
+* [Ultramarine Respin](#ultramarine-respin)
 * [微調腳本](#微調腳本)
 * [ISO](#iso)
 * [工具](https://samwhelp.github.io/note-about-ultramarine/read/subject/tool.html)
@@ -21,7 +21,7 @@
 
 
 
-## Ultramarine Adjustment
+## Ultramarine Respin
 
 | Link | GitHub |
 | ---- | ------ |
