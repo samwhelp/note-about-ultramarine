@@ -25,7 +25,7 @@ parent: ISO
 
 ## 下載腳本
 
-* [下載腳本](https://github.com/samwhelp/ultramarine-adjustment/tree/main/core/iso/boot-iso/boot-iso-by-grub/demo-boot-ultramarine-40-iso)
+* [下載腳本](https://github.com/samwhelp/ultramarine-adjustment/tree/main/core/iso/boot-iso/boot-iso-via-grub/demo-boot-ultramarine-40-iso)
 
 
 
