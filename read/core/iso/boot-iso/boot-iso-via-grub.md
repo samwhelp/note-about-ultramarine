@@ -1,5 +1,5 @@
 ---
-title: Boot ISO By GRUB
+title: Boot ISO Via GRUB
 nav_order: 1040
 has_children: false
 parent: Boot ISO
@@ -7,14 +7,14 @@ grand_parent: ISO
 ---
 
 
-# Boot ISO By GRUB
+# Boot ISO Via GRUB
 
 
 
 
 ## 範例專案
 
-* boot-iso-by-grub / [demo-boot-ultramarine-40-iso](https://github.com/samwhelp/ultramarine-adjustment/tree/main/core/iso/boot-iso/boot-iso-by-grub/demo-boot-ultramarine-40-iso)
+* boot-iso-via-grub / [demo-boot-ultramarine-40-iso](https://github.com/samwhelp/ultramarine-adjustment/tree/main/core/iso/boot-iso/boot-iso-via-grub/demo-boot-ultramarine-40-iso)
 
 
 
@@ -39,8 +39,8 @@ sudo curl -fLo /opt/iso/ultramarine/40/ultramarine-xfce-40-live-x86_64.iso --cre
 
 | GRUB Boot ISO 範例 | 設定檔路徑 | 是否需要執行 update-grub |
 | --- | --- | --- |
-| demo_40_custom | [/etc/grub.d/40_custom](https://github.com/samwhelp/ultramarine-adjustment/blob/main/core/iso/boot-iso/boot-iso-by-grub/demo-boot-ultramarine-40-iso/asset/overlay/etc/grub.d/40_custom) | 修改後，需要執行 `sudo grub2-mkconfig -o /boot/grub2/grub.cfg` |
-| demo_41_custom | [/boot/grub2/custom.cfg](https://github.com/samwhelp/ultramarine-adjustment/blob/main/core/iso/boot-iso/boot-iso-by-grub/demo-boot-ultramarine-40-iso/asset/overlay/boot/grub2/custom.cfg) | 修改後，**不需要**執行 `sudo grub2-mkconfig -o /boot/grub2/grub.cfg` |
+| demo_40_custom | [/etc/grub.d/40_custom](https://github.com/samwhelp/ultramarine-adjustment/blob/main/core/iso/boot-iso/boot-iso-via-grub/demo-boot-ultramarine-40-iso/asset/overlay/etc/grub.d/40_custom) | 修改後，需要執行 `sudo grub2-mkconfig -o /boot/grub2/grub.cfg` |
+| demo_41_custom | [/boot/grub2/custom.cfg](https://github.com/samwhelp/ultramarine-adjustment/blob/main/core/iso/boot-iso/boot-iso-via-grub/demo-boot-ultramarine-40-iso/asset/overlay/boot/grub2/custom.cfg) | 修改後，**不需要**執行 `sudo grub2-mkconfig -o /boot/grub2/grub.cfg` |
 
 
 
