@@ -29,10 +29,10 @@ grand_parent: ISO
 舉例執行下面指令
 
 ``` sh
-wget -c https://images.fyralabs.com/isos/ultramarine/40/ultramarine-xfce-40-live-x86_64.iso
+wget -c https://images.fyralabs.com/isos/ultramarine/43/ultramarine-xfce-43-live-x86_64.iso
 ```
 
-就會下載一個檔案「ultramarine-xfce-40-live-x86_64.iso」。
+就會下載一個檔案「`ultramarine-xfce-43-live-x86_64.iso`」。
 
 
 ### 尋找 Device 代號
@@ -52,13 +52,13 @@ lsblk
 接著執行下面指令，就會寫入「USB隨身碟」。
 
 ``` sh
-sudo dd if=./ultramarine-xfce-40-live-x86_64.iso of=/dev/sdc bs=4M status=progress && sync
+sudo dd if=./ultramarine-xfce-43-live-x86_64.iso of=/dev/sdc bs=4M status=progress && sync
 ```
 
 或是執行下面指令，就會寫入「USB隨身碟」。
 
 ``` sh
-sudo dd if=./ultramarine-xfce-40-live-x86_64.iso of=/dev/sdc bs=4M status=progress conv=fsync oflag=direct
+sudo dd if=./ultramarine-xfce-43-live-x86_64.iso of=/dev/sdc bs=4M status=progress conv=fsync oflag=direct
 ```
 
 > 接著重新開機，在「BIOS」選擇使用「該USB隨身碟」開機。
