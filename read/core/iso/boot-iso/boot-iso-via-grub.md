@@ -23,12 +23,12 @@ grand_parent: ISO
 
 先參考「[Download ISO](https://samwhelp.github.io/note-about-ultramarine/read/core/iso/download-iso.html)」這篇提到的下載方式，下載「Ultramarine Linux 官方提供最新的ISO檔案」。
 
-舉例：將「ISO檔案」放到「/opt/iso/ultramarine/43/ultramarine-xfce-43-live-x86_64.iso」這個路徑。
+舉例：將「ISO檔案」放到「/opt/iso/ultramarine/latest/ultramarine-xfce.iso」這個路徑。
 
 執行下面指令
 
 ``` sh
-sudo curl -fLo /opt/iso/ultramarine/43/ultramarine-xfce-43-live-x86_64.iso --create-dirs \
+sudo curl -fLo /opt/iso/ultramarine/latest/ultramarine-xfce.iso --create-dirs \
 	https://images.fyralabs.com/isos/ultramarine/43/ultramarine-xfce-43-live-x86_64.iso
 ```
 
@@ -49,17 +49,17 @@ sudo curl -fLo /opt/iso/ultramarine/43/ultramarine-xfce-43-live-x86_64.iso --cre
 
 ``` sh
 
-menuentry "Ultramarine 40 ISO / Flagship" --class Fedora {
-	set iso_file="/opt/iso/ultramarine/latest/ultramarine-flagship-40-live-x86_64.iso"
+menuentry "Ultramarine 43 ISO / Xfce" --class fedora {
+	set iso_file="/opt/iso/ultramarine/latest/ultramarine-xfce.iso"
 	search --set=iso_partition --no-floppy --file $iso_file
 	probe --set=iso_partition_uuid --fs-uuid $iso_partition
 	set img_dev="/dev/disk/by-uuid/$iso_partition_uuid"
 	loopback loop ($iso_partition)$iso_file
 	#set boot_option=""
 	#set boot_option="quiet splash"
-	set boot_option="root=live:CDLABEL=UM-Flagship-Live rd.live.image enforcing=0 rhgb"
-	linux (loop)/boot/vmlinuz-6.8.10-300.fc40.x86_64 iso-scan/filename=$iso_file $boot_option
-	initrd (loop)/boot/initramfs-6.8.10-300.fc40.x86_64.img
+	set boot_option="root=live:CDLABEL=UM-Xfce-Live rd.live.image enforcing=0 rhgb"
+	linux (loop)/boot/vmlinuz iso-scan/filename=$iso_file $boot_option
+	initrd (loop)/boot/initramfs.img
 }
 
 ```
