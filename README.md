@@ -12,11 +12,21 @@
 
 ## 主題
 
-* [Ultramarine Respin](#ultramarine-respin)
 * [微調腳本](#微調腳本)
+* [Ultramarine Respin](#ultramarine-respin)
 * [ISO](#iso)
 * [工具](https://samwhelp.github.io/note-about-ultramarine/read/subject/tool.html)
 * [相關筆記](#相關筆記)
+
+
+
+
+## 微調腳本
+
+| 微調腳本 |
+| -------- |
+| [Ultramarine Adjustment](https://github.com/samwhelp/ultramarine-adjustment/tree/main/prototype/main) |
+| [Tool Config](https://github.com/samwhelp/ultramarine-adjustment/tree/main/prototype/main/tool-config/part) |
 
 
 
@@ -39,15 +49,6 @@
 | [Ultramarine Hyprland 探索筆記](https://samwhelp.github.io/note-about-ultramarine-hyprland/) | [GitHub](https://github.com/samwhelp/note-about-ultramarine-hyprland) |
 | [Ultramarine Sway 探索筆記](https://samwhelp.github.io/note-about-ultramarine-sway/) | [GitHub](https://github.com/samwhelp/note-about-ultramarine-sway) |
 | [Ultramarine River 探索筆記](https://samwhelp.github.io/note-about-ultramarine-river/) | [GitHub](https://github.com/samwhelp/note-about-ultramarine-river) |
-
-
-
-
-## 微調腳本
-
-| 微調腳本 |
-| -------- |
-| [Ultramarine Adjustment](https://github.com/samwhelp/ultramarine-adjustment/tree/main/prototype/main) |
 
 
 
@@ -80,6 +81,8 @@
 | [Fedora 探索筆記](https://samwhelp.github.io/note-about-fedora/) | [GitHub](https://github.com/samwhelp/note-about-fedora) |
 | [Ubuntu 探索筆記](https://samwhelp.github.io/note-about-ubuntu/) | [GitHub](https://github.com/samwhelp/note-about-ubuntu) |
 | [Debian 探索筆記](https://samwhelp.github.io/note-about-debian/) | [GitHub](https://github.com/samwhelp/note-about-debian) |
+
+
 
 
 ## Samwhelp
