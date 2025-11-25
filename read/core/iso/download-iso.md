@@ -18,7 +18,8 @@ parent: ISO
 
 ## Link
 
-* Ultramarine Linux / Wiki / [Getting Ultramarine Linux](https://wiki.ultramarine-linux.org/en/installation/getting/)
+* Ultramarine Linux / Wiki / [Getting Ultramarine Linux](https://wiki.ultramarine-linux.org/en/setup/getting/)
+* Ultramarine Linux / [Blog](https://blog.fyralabs.com/) / [Ultramarine 43 is Cooking with Gas](https://blog.fyralabs.com/ultramarine-43-release/)
 
 
 
@@ -26,6 +27,7 @@ parent: ISO
 ## 下載腳本
 
 * [下載腳本](https://github.com/samwhelp/ultramarine-adjustment/tree/main/core/iso/boot-iso/boot-iso-via-grub/demo-boot-ultramarine-iso)
+* [下載腳本 (Anaconda)](https://github.com/samwhelp/ultramarine-adjustment/tree/main/core/iso/boot-iso/boot-iso-via-grub/demo-boot-ultramarine-43-anaconda-iso)
 
 
 

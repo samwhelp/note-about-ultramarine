@@ -14,7 +14,8 @@ grand_parent: ISO
 
 ## 範例專案
 
-* boot-iso-via-grub / [demo-boot-ultramarine-40-iso](https://github.com/samwhelp/ultramarine-adjustment/tree/main/core/iso/boot-iso/boot-iso-via-grub/demo-boot-ultramarine-40-iso)
+* boot-iso-via-grub / [demo-boot-ultramarine-43-iso](https://github.com/samwhelp/ultramarine-adjustment/tree/main/core/iso/boot-iso/boot-iso-via-grub/demo-boot-ultramarine-43-iso)
+* boot-iso-via-grub / [emo-boot-ultramarine-43-anaconda-iso](https://github.com/samwhelp/ultramarine-adjustment/tree/main/core/iso/boot-iso/boot-iso-via-grub/demo-boot-ultramarine-43-anaconda-iso)
 
 
 
