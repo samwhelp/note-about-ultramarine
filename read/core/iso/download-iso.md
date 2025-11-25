@@ -47,18 +47,20 @@ parent: ISO
 先產生一個檔案「iso-download.txt」，內容如下
 
 ```
-https://images.fyralabs.com/isos/ultramarine/40/ultramarine-flagship-40-live-x86_64.iso
-https://images.fyralabs.com/isos/ultramarine/40/ultramarine-gnome-40-live-x86_64.iso
-https://images.fyralabs.com/isos/ultramarine/40/ultramarine-xfce-40-live-x86_64.iso
-https://images.fyralabs.com/isos/ultramarine/40/ultramarine-kde-40-live-x86_64.iso
+
+https://images.fyralabs.com/isos/ultramarine/43/ultramarine-xfce-43-live-x86_64.iso
+https://images.fyralabs.com/isos/ultramarine/43/ultramarine-plasma-43-live-x86_64.iso
+https://images.fyralabs.com/isos/ultramarine/43/ultramarine-budgie-43-live-x86_64.iso
+https://images.fyralabs.com/isos/ultramarine/43/ultramarine-gnome-43-live-x86_64.iso
 
 
 
 
-https://images.fyralabs.com/isos/ultramarine/40/ultramarine-flagship-40-live-x86_64.iso.sha256sum
-https://images.fyralabs.com/isos/ultramarine/40/ultramarine-gnome-40-live-x86_64.iso.sha256sum
-https://images.fyralabs.com/isos/ultramarine/40/ultramarine-xfce-40-live-x86_64.iso.sha256sum
-https://images.fyralabs.com/isos/ultramarine/40/ultramarine-kde-40-live-x86_64.iso.sha256sum
+https://images.fyralabs.com/isos/ultramarine/43/ultramarine-xfce-43-live-x86_64.iso.sha256sum
+https://images.fyralabs.com/isos/ultramarine/43/ultramarine-plasma-43-live-x86_64.iso.sha256sum
+https://images.fyralabs.com/isos/ultramarine/43/ultramarine-budgie-43-live-x86_64.iso.sha256sum
+https://images.fyralabs.com/isos/ultramarine/43/ultramarine-gnome-43-live-x86_64.iso.sha256sum
+
 ```
 
 
@@ -93,7 +95,7 @@ wget -c -i iso-download.txt
 
 | Spins | ISO | Checksum |
 | ----- | --- | -------- |
-| Budgie (Flagship) | [ultramarine-flagship-40-live-x86_64.iso](https://images.fyralabs.com/isos/ultramarine/40/ultramarine-flagship-40-live-x86_64.iso) | [ultramarine-flagship-40-live-x86_64.iso.sha256sum](https://images.fyralabs.com/isos/ultramarine/40/ultramarine-flagship-40-live-x86_64.iso.sha256sum) |
-| Gnome Shell | [ultramarine-gnome-40-live-x86_64.iso](https://images.fyralabs.com/isos/ultramarine/40/ultramarine-gnome-40-live-x86_64.iso) | [ultramarine-gnome-40-live-x86_64.iso.sha256sum](https://images.fyralabs.com/isos/ultramarine/40/ultramarine-gnome-40-live-x86_64.iso.sha256sum) |
-| Xfce | [ultramarine-xfce-40-live-x86_64.iso](https://images.fyralabs.com/isos/ultramarine/40/ultramarine-xfce-40-live-x86_64.iso) | [ultramarine-xfce-40-live-x86_64.iso.sha256sum](https://images.fyralabs.com/isos/ultramarine/40/ultramarine-xfce-40-live-x86_64.iso.sha256sum) |
-| Kde Plasma | [ultramarine-kde-40-live-x86_64.is](https://images.fyralabs.com/isos/ultramarine/40/ultramarine-kde-40-live-x86_64.iso) | [ultramarine-kde-40-live-x86_64.iso.sha256sum](https://images.fyralabs.com/isos/ultramarine/40/ultramarine-kde-40-live-x86_64.iso.sha256sum) |
+| Xfce | [ultramarine-xfce-43-live-x86_64.iso](https://images.fyralabs.com/isos/ultramarine/43/ultramarine-xfce-43-live-x86_64.iso) | [ultramarine-xfce-43-live-x86_64.iso.sha256sum](https://images.fyralabs.com/isos/ultramarine/43/ultramarine-xfce-43-live-x86_64.iso.sha256sum) |
+| Kde Plasma | [ultramarine-plasma-43-live-x86_64.iso](https://images.fyralabs.com/isos/ultramarine/43/ultramarine-plasma-43-live-x86_64.iso) | [ultramarine-plasma-43-live-x86_64.iso.sha256sum](https://images.fyralabs.com/isos/ultramarine/43/ultramarine-plasma-43-live-x86_64.iso.sha256sum) |
+| Budgie | [ultramarine-budgie-43-live-x86_64.iso](https://images.fyralabs.com/isos/ultramarine/43/ultramarine-budgie-43-live-x86_64.iso) | [ultramarine-budgie-43-live-x86_64.iso.sha256sum)](https://images.fyralabs.com/isos/ultramarine/43/ultramarine-budgie-43-live-x86_64.iso.sha256sum) |
+| Gnome Shell | [ultramarine-gnome-43-live-x86_64.iso](https://images.fyralabs.com/isos/ultramarine/43/ultramarine-gnome-43-live-x86_64.iso) | [ultramarine-gnome-43-live-x86_64.iso.sha256sum](https://images.fyralabs.com/isos/ultramarine/43/ultramarine-gnome-43-live-x86_64.iso.sha256sum) |
