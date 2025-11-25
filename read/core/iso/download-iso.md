@@ -34,7 +34,7 @@ parent: ISO
 
 > 可以到「Ultramarine Linux / [Download](https://ultramarine-linux.org/download/)」，找到相關的下載點。
 
-> 也可以在「[https://images.fyralabs.com/isos/ultramarine/40/](https://images.fyralabs.com/isos/ultramarine/40/)」，找到相關的下載點。
+> 也可以在「[https://images.fyralabs.com/isos/ultramarine/](https://images.fyralabs.com/isos/ultramarine/)」，找到相關的下載點。
 
 
 
