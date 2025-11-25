@@ -23,13 +23,13 @@ grand_parent: ISO
 
 先參考「[Download ISO](https://samwhelp.github.io/note-about-ultramarine/read/core/iso/download-iso.html)」這篇提到的下載方式，下載「Ultramarine Linux 官方提供最新的ISO檔案」。
 
-舉例：將「ISO檔案」放到「/opt/iso/ultramarine/40/ultramarine-xfce-40-live-x86_64.iso」這個路徑。
+舉例：將「ISO檔案」放到「/opt/iso/ultramarine/43/ultramarine-xfce-43-live-x86_64.iso」這個路徑。
 
 執行下面指令
 
 ``` sh
-sudo curl -fLo /opt/iso/ultramarine/40/ultramarine-xfce-40-live-x86_64.iso --create-dirs \
-	https://images.fyralabs.com/isos/ultramarine/40/ultramarine-xfce-40-live-x86_64.iso
+sudo curl -fLo /opt/iso/ultramarine/43/ultramarine-xfce-43-live-x86_64.iso --create-dirs \
+	https://images.fyralabs.com/isos/ultramarine/43/ultramarine-xfce-43-live-x86_64.iso
 ```
 
 
@@ -39,8 +39,8 @@ sudo curl -fLo /opt/iso/ultramarine/40/ultramarine-xfce-40-live-x86_64.iso --cre
 
 | GRUB Boot ISO 範例 | 設定檔路徑 | 是否需要執行 update-grub |
 | --- | --- | --- |
-| demo_40_custom | [/etc/grub.d/40_custom](https://github.com/samwhelp/ultramarine-adjustment/blob/main/core/iso/boot-iso/boot-iso-via-grub/demo-boot-ultramarine-40-iso/asset/overlay/etc/grub.d/40_custom) | 修改後，需要執行 `sudo grub2-mkconfig -o /boot/grub2/grub.cfg` |
-| demo_41_custom | [/boot/grub2/custom.cfg](https://github.com/samwhelp/ultramarine-adjustment/blob/main/core/iso/boot-iso/boot-iso-via-grub/demo-boot-ultramarine-40-iso/asset/overlay/boot/grub2/custom.cfg) | 修改後，**不需要**執行 `sudo grub2-mkconfig -o /boot/grub2/grub.cfg` |
+| demo_40_custom | [/etc/grub.d/40_custom](https://github.com/samwhelp/ultramarine-adjustment/blob/main/core/iso/boot-iso/boot-iso-via-grub/demo-boot-ultramarine-iso/asset/overlay/etc/grub.d/40_custom) | 修改後，需要執行 `sudo grub2-mkconfig -o /boot/grub2/grub.cfg` |
+| demo_41_custom | [/boot/grub2/custom.cfg](https://github.com/samwhelp/ultramarine-adjustment/blob/main/core/iso/boot-iso/boot-iso-via-grub/demo-boot-ultramarine-iso/asset/overlay/boot/grub2/custom.cfg) | 修改後，**不需要**執行 `sudo grub2-mkconfig -o /boot/grub2/grub.cfg` |
 
 
 
