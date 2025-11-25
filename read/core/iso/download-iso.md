@@ -26,8 +26,8 @@ parent: ISO
 
 ## 下載腳本
 
-* [下載腳本](https://github.com/samwhelp/ultramarine-adjustment/tree/main/core/iso/boot-iso/boot-iso-via-grub/demo-boot-ultramarine-iso)
-* [下載腳本 (Anaconda)](https://github.com/samwhelp/ultramarine-adjustment/tree/main/core/iso/boot-iso/boot-iso-via-grub/demo-boot-ultramarine-43-anaconda-iso)
+* [下載腳本](https://github.com/samwhelp/ultramarine-adjustment/tree/main/core/iso/boot-iso/boot-iso-via-grub/demo-boot-ultramarine-iso) (搭載 [Readymade Installer](https://github.com/FyraLabs/readymade))
+* [下載腳本 (Anaconda)](https://github.com/samwhelp/ultramarine-adjustment/tree/main/core/iso/boot-iso/boot-iso-via-grub/demo-boot-ultramarine-43-anaconda-iso) (搭載 Anaconda Installer)
 
 
 

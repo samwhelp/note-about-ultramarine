@@ -25,7 +25,7 @@
 
 | 微調腳本 |
 | -------- |
-| [Ultramarine Adjustment](https://github.com/samwhelp/ultramarine-adjustment/tree/main/prototype/main) |
+| [Ultramarine Config](https://github.com/samwhelp/ultramarine-adjustment/tree/main/prototype/main) |
 | [Tool Config](https://github.com/samwhelp/ultramarine-adjustment/tree/main/prototype/main/tool-config/part) |
 
 
@@ -81,6 +81,7 @@
 | [Fedora 探索筆記](https://samwhelp.github.io/note-about-fedora/) | [GitHub](https://github.com/samwhelp/note-about-fedora) |
 | [Ubuntu 探索筆記](https://samwhelp.github.io/note-about-ubuntu/) | [GitHub](https://github.com/samwhelp/note-about-ubuntu) |
 | [Debian 探索筆記](https://samwhelp.github.io/note-about-debian/) | [GitHub](https://github.com/samwhelp/note-about-debian) |
+| [Archlinux 探索筆記](https://samwhelp.github.io/note-about-debian/) | [GitHub](https://github.com/samwhelp/note-about-archlinux) |
 
 
 
