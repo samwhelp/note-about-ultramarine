@@ -12,6 +12,7 @@ has_children: false
 
 ## News
 
+* [Ultramarine 43 is Cooking with Gas](https://blog.fyralabs.com/ultramarine-43-release/)
 * [Ultramarine Linux 40 Rains Down](https://blog.fyralabs.com/ultramarine-40-release/)
 
 
@@ -38,6 +39,14 @@ bash <(curl -s https://ultramarine-linux.org/migrate.sh)
 
 * [Fyra Labs](https://fyralabs.com/)
 * [GitHub](https://github.com/FyraLabs)
+
+
+
+
+## readymade
+
+* [readymade](https://github.com/FyraLabs/readymade)
+
 
 
 
