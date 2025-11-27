@@ -43,7 +43,7 @@ bash <(curl -s https://ultramarine-linux.org/migrate.sh)
 
 
 
-## readymade
+## Readymade
 
 * [readymade](https://github.com/FyraLabs/readymade)
 
