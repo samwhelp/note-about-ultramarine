@@ -15,6 +15,8 @@ parent: Howto
 ## Link
 
 * Ultramarine Linux / [Blog](https://blog.fyralabs.com/) / [Ultramarine 43 is Cooking with Gas](https://blog.fyralabs.com/ultramarine-43-release/)
+* [https://ultramarine-linux.org/migrate.sh](https://ultramarine-linux.org/migrate.sh) ([Source](https://github.com/Ultramarine-Linux/website/blob/main/public/migrate.sh))
+
 
 
 

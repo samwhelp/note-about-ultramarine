@@ -25,7 +25,7 @@ has_children: false
 * [Download](https://ultramarine-linux.org/download/)
 * [GitLab](https://gitlab.com/ultramarine-linux)
 * [GitHub](https://github.com/Ultramarine-Linux)
-* [migrate.sh](https://github.com/Ultramarine-Linux/website/blob/main/static/migrate.sh)
+* [migrate.sh](https://github.com/Ultramarine-Linux/website/blob/main/public/migrate.sh)
 
 ``` sh
 bash <(curl -s https://ultramarine-linux.org/migrate.sh)
