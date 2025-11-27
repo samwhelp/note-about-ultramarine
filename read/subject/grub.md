@@ -99,7 +99,7 @@ GRUB_THEME='/boot/grub2/themes/grub-theme-glass-remix/theme.txt'
 執行下面的指令，重新產生「`/boot/grub2/grub.cfg`」這個檔案。
 
 ``` sh
-sudo grub-mkconfig -o /boot/grub2/grub.cfg
+sudo grub2-mkconfig -o /boot/grub2/grub.cfg
 ```
 
 接著重新開機，就可以看到效果了。
